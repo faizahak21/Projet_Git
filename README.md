@@ -1,6 +1,6 @@
 # Mini projet Git - TP
 
-Projet d'entraînement Git : branches, merge/rebase, rebase interactif, dépôt distant, travail en équipe.
+Projet d'entraînement Git : branches, merge/rebase, rebase interactif, dépôt distant.
 
 ## Membres
 - HAKEM Faiza
