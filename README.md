@@ -4,6 +4,7 @@ Projet d'entraînement Git : branches, merge/rebase, rebase interactif, dépôt 
 
 ## Membres
 - HAKEM Faiza
+- KACEMI Lynda
 
 ## Lancer le projet
 Ouvrir `index.html`, puis consulter la console du navigateur (F12).
